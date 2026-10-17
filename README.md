@@ -1,55 +1,93 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Cientista+de+Dados+%26+Dev+Full+Stack;Especialização+em+Ciência+de+Dados+-+UFMG;Pós-Graduação+em+Física+-+UTFPR;Seja+Bem-Vindo/a!)](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Cientista+de+Dados+%26+Dev+Full+Stack;Especialização+em+Ciência+de+Dados+-+UFMG;Pós-Graduação+em+Física+-+UTFPR;Seja+Bem-Vindo/a!)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Mestrando+em+Física+-+UTFPR;Especializando+em+Ciência+de+Dados+-+UFMG;Amplify+Optics+Immersion+Fellow+2024+(USA);Secretário-Geral+Optica+OSA+Student+Chapter;Seja+Bem-Vindo/a!)](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Mestrando+em+Física+-+UTFPR;Especializando+em+Ciência+de+Dados+-+UFMG;Amplify+Optics+Immersion+Fellow+2024+(USA);Secretário-Geral+Optica+OSA+Student+Chapter;Seja+Bem-Vindo/a!)
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Ciência%20de%20Dados-UFMG-100000?style=for-the-badge&color=240046&logo=graduation-dot-com&logoColor=9D4EDD" alt="UFMG">
-  <img src="https://img.shields.io/badge/Física%20da%20Matéria%20Condensada-UTFPR-100000?style=for-the-badge&color=240046&logo=graduation-dot-com&logoColor=9D4EDD" alt="UTFPR">
-  <img src="https://img.shields.io/badge/Localização-Curitiba%2C%20PR-100000?style=for-the-badge&color=240046&logo=googlemaps&logoColor=9D4EDD" alt="Localização">
+  <img src="https://img.shields.io/badge/Mestrando%20em%20Física-UTFPR-100000?style=for-the-badge&color=240046&logo=graduation-dot-com&logoColor=9D4EDD" alt="Mestrando UTFPR">
+  <img src="https://img.shields.io/badge/Especializando%20em%20Ciência%20de%20Dados-UFMG-100000?style=for-the-badge&color=240046&logo=graduation-dot-com&logoColor=9D4EDD" alt="Especializando UFMG">
+  <img src="https://img.shields.io/badge/Optica%20OSA-Secretário%20Geral-100000?style=for-the-badge&color=240046&logo=optic&logoColor=9D4EDD" alt="Optica OSA">
+  <img src="https://img.shields.io/badge/Amplify%20Optics%202024-USA%20Fellow-100000?style=for-the-badge&color=240046&logo=googlemaps&logoColor=9D4EDD" alt="Amplify USA">
 
 </div>
 
-### Biografia Profissional 
-Com sólida base em **Física**, transformo dados complexos em soluções computacionais de alto impacto. Atualmente, foco em aprofundar conhecimentos em **Ciência de Dados, Estatística e Ciência da Computação na UFMG**, integrando práticas de **Hacker Ético, DevSecOps e Segurança da Informação**.
+### 🧬 Biografia Profissional 
+Com sólida base em **Física**[cite: 5, 11], transformo dados complexos em soluções computacionais de alto impacto. Atualmente, sou **Mestrando em Física da Matéria Condensada na UTFPR (Curitiba)**[cite: 5, 11] e **Especializando em Ciência de Dados (Estatística) na UFMG (Belo Horizonte)**[cite: 11], bolsista **FAPEMIG**[cite: 11]. 
 
-Minha expertise une o rigor acadêmico da física (**Mestrado/Pós-Graduação na UTFPR**)[cite: 5] com a agilidade da análise de dados e da segurança ofensiva para resolver problemas de alta complexidade.
+Sou membro ativo da **Optica** (antiga *Optical Society of America - OSA*)[cite: 11, 17] e atuo como **Secretário-Geral do UNILAB Student Chapter - OPTICA OSA**[cite: 11, 17]. Em 2024, fui selecionado no processo internacional **Amplify Optics Immersion Program** em Denver, Colorado, EUA[cite: 11, 15, 17].
 
-- **Análise de Dados & Ciência de Dados:** Modelagem estatística, extração de insights e computação de alto desempenho.
-- **Segurança da Informação & DevSecOps:** Foco em Hacker Ético, segurança ofensiva e práticas de desenvolvimento seguro.
-- **Desenvolvimento Full Stack:** Construção de aplicações web robustas com HTML5, CSS3, JavaScript e integração de APIs.
-- **Mentalidade Científica:** Rigor em resolução de problemas, Clean Code e versionamento com Git/GitHub.
+Minha trajetória une o rigor acadêmico da Física experimental/computacional (transistores orgânicos, óptica e simulações quânticas) com Ciência de Dados, Desenvolvimento Full Stack e Cibersegurança[cite: 11, 17].
 
-> **Aberto a:** Oportunidades em Ciência de Dados, Engenharia de Dados, Segurança da Informação/DevSecOps e projetos de alta complexidade.
+- **Análise & Ciência de Dados:** Processamento estatístico, modelagem de dados e análise bibliométrica computacional (VOSviewer)[cite: 11, 13, 14].
+- **Cibersegurança & DevSecOps:** Formação em Ethical Hacking (TIAcademy) e programa Hackers do Bem[cite: 11, 12].
+- **Desenvolvimento Web & Interesses de Pesquisa:** Construção de websites computacionais e sistemas aplicados à Física, Óptica e Fotônica[cite: 11, 17].
+- **Liderança & Gestão:** Liderança estudantil internacional, coordenação de grupos de exatas e gestão de projetos de extensão[cite: 11, 17].
 
 ---
 
-## Tech Stack Section
+## 🌎 Destaques Internacionais & Pesquisa
 
-<div align="center">
+- **🇺🇸 Amplify Optics Immersion Program 2024 & Frontiers in Optics (FiO LS)** | *Denver, Colorado - EUA*
+  - Selecionado entre os **50 estudantes negros de física e engenharia no mundo** para imersão em óptica e fotônica da *Optica (OSA)*[cite: 11, 15, 17].
+- **🧪 Pesquisa de Mestrado (PPGFA/UTFPR):**
+  - *Detecção de cátions através de medidas elétricas utilizando transistores eletroquímicos orgânicos* (Orientador: Prof. Dr. Douglas José Coutinho)[cite: 11].
+- **📄 Publicação em Evento Internacional (XXIV B-MRS Meeting 2026):**
+  - Apresentação de pôster: *"Anion-Dependent Electrochemical Doping of P3HT and P3MEEET in Aqueous and Aprotic Media"* (Curitiba-PR)[cite: 15].
+- **📘 Capítulo de Livro Publicado (2022):**
+  - *"Formação de Professores durante a Pandemia de COVID-19: Desafios, Aprendizagens e Conquistas do PIBID da UNILAB"* (Editora Fi)[cite: 13, 14].
 
-### Linguagens
-<img src="https://skillicons.dev/icons?i=py,js,cpp,html,css,bash&perline=8" />
+---
 
-### Ciência de Dados & Backend
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,docker,linux&perline=8" />
+## 👥 Liderança & Representação Estudantil
 
-### Frontend & Segurança
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,figma,git&perline=8" />
+- **Secretário-Geral** — *UNILAB Student Chapter - OPTICA OSA* (2024—2025)[cite: 11, 17]
+- **Presidente do Conselho Fiscal** — *Grupo de Estudantes Guineenses de Ciências Exatas e da Natureza (GEGUICEN)* (2022—2025)[cite: 11, 17]
+- **Coordenador dos Estudantes Guineenses de Física** — *UNILAB* (2021—2025)[cite: 11, 17]
 
-</div>
+---
+
+## 🎓 Formação Acadêmica & Titulação
+
+| Nível / Curso | Instituição / Detalhes | Período / Status |
+| :--- | :--- | :--- |
+| **Mestrado Profissional em Física e Astronomia (PPGFA)**[cite: 11] | **UTFPR — Curitiba**[cite: 5, 11]<br>_Física da Matéria Condensada (Transistores Orgânicos e Sensores)_[cite: 11] | 2025 — Cursando<br>(Mestrando)[cite: 11] |
+| **Especialização em Ciência de Dados**[cite: 11] | **UFMG — Belo Horizonte**[cite: 11]<br>_Ênfase em Estatística (Bolsista FAPEMIG)_[cite: 11] | 2026 — Cursando<br>(Especializando)[cite: 11] |
+| **Graduação em Licenciatura Plena em Física**[cite: 11] | **UNILAB — Redenção**[cite: 11]<br>_TCC: Técnica Split Operator em Uma Dimensão para o Ensino da Mecânica Quântica_[cite: 11] | 2021 — 2025<br>(Concluído)[cite: 11] |
+| **Ensino Médio (2º Grau)**[cite: 11] | Liceu Técnico Amizade Guiné-Bissau Turquia (LTAGBT)[cite: 11] | 2012 — 2018[cite: 11] |
+
+---
+
+## 🛠️ Capacitação Técnica & Cibersegurança
+
+| Formação / Curso | Carga Horária | Instituição | Ano |
+| :--- | :--- | :--- | :--- |
+| **Ethical Hacking e Cibersegurança**[cite: 11] | 12h[cite: 11] | TIAcademy / TTA[cite: 11] | 2026[cite: 11] |
+| **Programa Hackers do Bem (Fundamental, Básico e Nivelamento)**[cite: 11, 12] | 304h acumuladas[cite: 11, 12] | Hackers do Bem / MB[cite: 11, 12] | 2024 — 2026[cite: 11, 12] |
+| **Sistemas Embarcados**[cite: 11, 12] | 160h[cite: 12] | Instituto Federal do Ceará (IFCE)[cite: 11, 12] | 2024 — 2025[cite: 11, 12] |
+| **Desenvolvedor Full Stack**[cite: 11, 12] | 192h[cite: 12] | Instituto Euvaldo Lodi (IEL/CE)[cite: 11, 12] | 2024[cite: 12] |
+| **Desenvolvimento Kotlin para Android**[cite: 11, 12] | 144h[cite: 12] | TOTI Diversidade na Tecnologia[cite: 11, 12] | 2024[cite: 12] |
+| **Análise de Dados, Python & Full Stack**[cite: 11, 12] | 219h / 68h / 176h[cite: 12] | TOTI Diversidade na Tecnologia[cite: 11, 12] | 2023 — 2024[cite: 12] |
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### 🔧 Ferramentas & Tecnologias
+<div align="center">
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#) [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
+### Linguagens & Análise Computacional
+<img src="https://skillicons.dev/icons?i=py,js,cpp,html,css,kotlin,bash&perline=8" />
+
+### Ciência de Dados, Mobile & Bancos de Dados
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,androidstudio,docker,linux&perline=8" />
+
+### Ferramentas, Segurança & Frameworks
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma,git,vscode&perline=8" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -63,39 +101,10 @@ Minha expertise une o rigor acadêmico da física (**Mestrado/Pós-Graduação n
 
 ---
 
-### 🎓 Formação Acadêmica & Especializações
-
-- **Especialização em Ciência de Dados** - UFMG (Estatística e Ciência da Computação) 🔄 *Em andamento*
-- **Pós-Graduação em Física (PPGFA)** - UTFPR Curitiba (Física da Matéria Condensada) 🔄 *Em andamento*[cite: 5]
-- **Graduação** - UNILAB[cite: 5]
-
----
-
-## 💡 Competências Principais
-
-| Categoria | Habilidades |
-|-----------|-------------|
-| **Ciência de Dados** | Análise Estatística, Modelagem de Dados, Python |
-| **Cybersecurity** | Hacker Ético, DevSecOps, Segurança da Informação |
-| **Desenvolvimento** | HTML5, CSS3, JavaScript, Full Stack, Git/GitHub |
-| **Soft Skills** | Rigor Acadêmico, Raciocínio Analítico, Resolução de Problemas Complexos |
-
----
-
-### 🚀 Projetos & Repositórios Destacados
-
-- **Meuprojeto-xdevs** - Projeto desenvolvido em HTML / CSS[cite: 5]
-- **Projetototi** - Projeto web[cite: 5]
-- **cálculo** - Scripts e análises computacionais em JavaScript[cite: 5]
-- **calculadora02** - Aplicação interativa de calculadora[cite: 5]
-
----
-
 ## 📞 Vamos Conversar?
 
-[![EMAIL PESSOAL](https://img.shields.io/badge/EMAIL%20ACADÊMICO-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bidinguiltetchuda@aluno.unilab.edu.br)
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tchuda-bidenguil)
-[![FACEBOOK](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
-[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![EMAIL ACADÊMICO](https://img.shields.io/badge/EMAIL%20ACADÊMICO-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bidinguiltetchudai@aluno.unilab.edu.br)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tchuda-bidenguilt%C3%A9-0b6764202/)
+[![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devjr.oneboy.oficial/)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
