@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Mestrando+em+Física+-+UTFPR;Especializando+em+Ciência+de+Dados+-+UFMG;Amplify+Optics+Immersion+Fellow+2024+(USA);Secretário-Geral+Optica+OSA+Student+(2023-2025);Seja+Bem-Vindo/a!)](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Mestrando+em+Física+-+UTFPR;Especializando+em+Ciência+de+Dados+-+UFMG;Amplify+Optics+Immersion+Fellow+2024+(USA);Secretário-Geral+Optica+OSA+Student+(2023-2025);Seja+Bem-Vindo/a!)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Mestrando+em+Física+-+UTFPR;Especializando+em+Ciência+de+Dados+-+UFMG;Especializando+em+DevSecOps+-+Hackers+do+Bem;Amplify+Optics+Immersion+Fellow+2024+(USA);Seja+Bem-Vindo/a!)](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Mestrando+em+Física+-+UTFPR;Especializando+em+Ciência+de+Dados+-+UFMG;Especializando+em+DevSecOps+-+Hackers+do+Bem;Amplify+Optics+Immersion+Fellow+2024+(USA);Seja+Bem-Vindo/a!)
 
 <div align="center">
 
@@ -13,16 +13,18 @@
 </div>
 
 ### 🧬 Biografia Profissional 
-Com sólida base em **Física**, transformo dados complexos em soluções computacionais de alto impacto[cite: 5, 11]. Atualmente, sou **Mestrando em Física da Matéria Condensada na UTFPR (Curitiba)** e **Especializando em Ciência de Dados (Estatística) na UFMG (Belo Horizonte)**, bolsista **FAPEMIG**[cite: 5, 11]. 
+Com sólida base em **Física**, transformo dados complexos em soluções computacionais de alto impacto. Atualmente, sou **Mestrando em Física da Matéria Condensada na UTFPR (Curitiba)** e **Especializando em Ciência de Dados (Estatística) na UFMG (Belo Horizonte)**, bolsista **FAPEMIG**. 
 
-Membro ativo da **Optica** (antiga *Optical Society of America - OSA*) e atuei como **Secretário-Geral do UNILAB Student Chapter - OPTICA OSA (2023 — 2025)**[cite: 11, 12]. Em 2024, fui selecionado no processo internacional **Amplify Optics Immersion Program** em Denver, Colorado, EUA[cite: 11].
+Aprofundo especialização prática em **Cibersegurança e DevSecOps** através do programa **Hackers do Bem (RNP/SENAI/MCTI)**, tendo concluído as formações de Nivelamento, Básico e Fundamental (240h acumuladas), e atualmente cursando a **Especialização em DevSecOps (80h)**.
 
-Minha trajetória une o rigor acadêmico da Física experimental/computacional (transistores orgânicos, óptica e simulações quânticas) com Ciência de Dados, Desenvolvimento Full Stack e Cibersegurança[cite: 11].
+Membro ativo da **Optica** (antiga *Optical Society of America - OSA*) e atuei como **Secretário-Geral do UNILAB Student Chapter - OPTICA OSA (2023 — 2025)**. Em 2024, fui selecionado no processo internacional **Amplify Optics Immersion Program** em Denver, Colorado, EUA.
 
-- **Análise & Ciência de Dados:** Processamento estatístico, modelagem de dados e análise bibliométrica computacional (VOSviewer)[cite: 11].
-- **Cibersegurança & DevSecOps:** Formação em Ethical Hacking (TIAcademy) e programa Hackers do Bem[cite: 11, 12].
-- **Desenvolvimento Web & Interesses de Pesquisa:** Construção de websites computacionais e sistemas aplicados à Física, Óptica e Fotônica[cite: 11].
-- **Liderança & Gestão:** Liderança estudantil internacional, coordenação de grupos de exatas e gestão de projetos de extensão[cite: 11].
+Minha trajetória une o rigor acadêmico da Física experimental/computacional (transistores orgânicos, óptica e simulações quânticas) com Ciência de Dados, Desenvolvimento Full Stack e Cibersegurança.
+
+- **Análise & Ciência de Dados:** Processamento estatístico, modelagem de dados e análise bibliométrica computacional (VOSviewer).
+- **Cibersegurança & DevSecOps:** Formação em Ethical Hacking e Hackers do Bem (Pipelines, Testes Automatizados e Metodologias de Desenvolvimento Seguro).
+- **Desenvolvimento Web & Interesses de Pesquisa:** Construção de websites computacionais e sistemas aplicados à Física, Óptica e Fotônica.
+- **Liderança & Gestão:** Liderança estudantil internacional, coordenação de grupos de exatas e gestão de projetos de extensão.
 
 ---
 
@@ -62,42 +64,46 @@ Minha trajetória une o rigor acadêmico da Física experimental/computacional (
 
 ### 🎓 Cursando (Em Andamento)
 
-- **Mestrado Profissional em Física e Astronomia (PPGFA)** — UTFPR Curitiba (2025 — Cursando)[cite: 11]
-- **Especialização em Ciência de Dados (Estatística)** — UFMG Belo Horizonte / Bolsista FAPEMIG (2026 — Cursando)[cite: 11]
+- **Mestrado Profissional em Física e Astronomia (PPGFA)** — UTFPR Curitiba (2025 — Cursando)
+- **Especialização em Ciência de Dados (Estatística)** — UFMG Belo Horizonte / Bolsista FAPEMIG (2026 — Cursando)
+- **Especialização em DevSecOps** — Hackers do Bem / RNP / SENAI (2026 — Cursando)
 
 ---
 
 ### 📚 Cursos Concluídos e em Andamento
 
-| Nome do Curso | Local / Formato | Ano | Instituição |
+| Nome do Curso | Carga Horária | Status / Ano | Instituição |
 | :--- | :--- | :--- | :--- |
-| **Mestrado em Física da Matéria Condensada** | Presencial / Pesquisa | 2025 — Cursando | UTFPR — Curitiba |
-| **Especialização em Ciência de Dados** | Pós-Graduação (Estatística) | 2026 — Cursando | UFMG / FAPEMIG |
-| **Graduação em Licenciatura em Física** | Presencial | 2021 — 2025 | UNILAB |
-| **Ethical Hacking e Cibersegurança** | Curta Duração (12h) | 2026 | TIAcademy |
-| **Programa Hackers do Bem — Cibersegurança** | Formação (304h acumuladas) | 2024 — 2026 | Hackers do Bem / MB |
-| **Capacitação em Sistemas Embarcados** | Formação (160h) | 2024 — 2025 | IFCE — Fortaleza |
-| **Desenvolvedor Full Stack** | Formação (192h) | 2024 | IEL / CE |
-| **Desenvolvimento Kotlin para Android** | Formação (144h) | 2024 | TOTI Diversidade |
-| **Análise de Dados & Python & Full Stack** | Formação (219h + 68h + 176h) | 2023 — 2024 | TOTI Diversidade |
+| **Mestrado em Física da Matéria Condensada** | Pesquisa | 🔄 2025 — Cursando | UTFPR — Curitiba |
+| **Especialização em Ciência de Dados** | Pós-Graduação | 🔄 2026 — Cursando | UFMG / FAPEMIG |
+| **Especialização em DevSecOps** | 80h | 🔄 2026 — Cursando | Hackers do Bem / RNP |
+| **Programa Hackers do Bem — Fundamental** | 96h | ✅ Concluído (2026) | Hackers do Bem / SENAI |
+| **Programa Hackers do Bem — Básico** | 64h | ✅ Concluído (2026) | Hackers do Bem / SENAI |
+| **Programa Hackers do Bem — Nivelamento** | 80h | ✅ Concluído (2026) | Hackers do Bem / SENAI |
+| **Ethical Hacking e Cibersegurança** | 12h | ✅ Concluído (2026) | TIAcademy |
+| **Graduação em Licenciatura em Física** | Presencial | ✅ Concluído (2025) | UNILAB |
+| **Capacitação em Sistemas Embarcados** | 160h | ✅ Concluído (2025) | IFCE — Fortaleza |
+| **Desenvolvedor Full Stack** | 192h | ✅ Concluído (2024) | IEL / CE |
+| **Desenvolvimento Kotlin para Android** | 144h | ✅ Concluído (2024) | TOTI Diversidade |
+| **Análise de Dados & Python & Full Stack** | 463h acumuladas | ✅ Concluído (2024) | TOTI Diversidade |
 
 ---
 
 ### 🌐 Destaques Internacionais & Liderança
 
 - **🇺🇸 Amplify Optics Immersion Program 2024 & Frontiers in Optics (FiO LS)** | *Denver, EUA*
-  - Um dos **50 estudantes negros de física e engenharia do mundo** selecionados pela *Optica (OSA)*[cite: 11].
-- **Secretário-Geral** — *UNILAB Student Chapter - OPTICA OSA* (2023 — 2025)[cite: 11, 12]
-- **Presidente do Conselho Fiscal** — *GEGUICEN* (2022 — 2025)[cite: 11]
-- **Coordenador Acadêmico** — *Estudantes Guineenses de Física na UNILAB* (2021 — 2025)[cite: 11]
+  - Um dos **50 estudantes negros de física e engenharia do mundo** selecionados pela *Optica (OSA)*.
+- **Secretário-Geral** — *UNILAB Student Chapter - OPTICA OSA* (2023 — 2025)
+- **Presidente do Conselho Fiscal** — *GEGUICEN* (2022 — 2025)
+- **Coordenador Acadêmico** — *Estudantes Guineenses de Física na UNILAB* (2021 — 2025)
 
 ---
 
 ### 💼 Atuação Profissional & Pesquisa
 
-- **Bolsista Voluntário de Pesquisa & Extensão** — *Telecomunicações (GPET / UNILAB)* (2024 — Atual)[cite: 11, 12]
-- **Bolsista Residência Pedagógica (PRP)** — *Subprojeto de Física (CAPES / UNILAB)* (2022 — 2024)[cite: 11, 12]
-- **Bolsista Iniciação à Docência (PIBID)** — *Subprojeto de Física (CAPES / UNILAB)* (2020 — 2022)[cite: 11, 12]
+- **Bolsista Voluntário de Pesquisa & Extensão** — *Telecomunicações (GPET / UNILAB)* (2024 — Atual)
+- **Bolsista Residência Pedagógica (PRP)** — *Subprojeto de Física (CAPES / UNILAB)* (2022 — 2024)
+- **Bolsista Iniciação à Docência (PIBID)** — *Subprojeto de Física (CAPES / UNILAB)* (2020 — 2022)
 
 ---
 
@@ -105,19 +111,19 @@ Minha trajetória une o rigor acadêmico da Física experimental/computacional (
 
 | Categoria | Habilidades |
 |-----------|-------------|
-| **Técnicas** | Python, JavaScript, C++, HTML/CSS, Kotlin, Análise Estatística, DevSecOps[cite: 11, 12] |
-| **Ferramentas** | Git/GitHub, VS Code, Linux, MySQL, VOSviewer, Android Studio[cite: 11, 12] |
-| **Interpessoais** | Rigor Acadêmico, Liderança Estudantil, Resolução de Problemas, Trabalho em Equipe[cite: 11] |
-| **Metodologias** | Desenvolvimento Ágil, Clean Code, Versionamento, Pesquisa Científica[cite: 11] |
+| **Cibersegurança & DevSecOps** | Metodologias de Desenvolvimento Seguro, Pipelines, Testes Automatizados, Criptografia, Análise de Vulnerabilidades |
+| **Ciência de Dados & Exatas** | Python, Análise Estatística, Modelagem de Dados, Computação Científica |
+| **Linguagens & Web** | Python, JavaScript, C++, Kotlin, HTML5/CSS3, Bash |
+| **Ferramentas & Ambiente** | Git/GitHub, VS Code, Linux, Docker, MySQL, VOSviewer |
 
 ---
 
 ### ⭐️ Principais Repositórios & Projetos
 
-- **Meuprojeto-xdevs** — Projeto desenvolvido em HTML / CSS[cite: 5]
-- **Projetototi** — Aplicação web Full Stack[cite: 5]
-- **cálculo** — Scripts e algoritmos interativos desenvolvidos em JavaScript[cite: 5]
-- **calculadora02** — Aplicação interativa de calculadora funcional[cite: 5]
+- **Meuprojeto-xdevs** — Projeto desenvolvido em HTML / CSS
+- **Projetototi** — Aplicação web Full Stack
+- **cálculo** — Scripts e algoritmos interativos desenvolvidos em JavaScript
+- **calculadora02** — Aplicação interativa de calculadora funcional
 
 ---
 
@@ -126,9 +132,9 @@ Minha trajetória une o rigor acadêmico da Física experimental/computacional (
 | Tecnologia / Área | Status |
 | :--- | :--- |
 | **HTML / CSS / JavaScript / Git** | 🟢 Dominado |
-| **Python & Análise de Dados** | 🔄 Em Progresso |
+| **Cibersegurança Fundamental & Redes** | 🟢 Dominado |
+| **Especialização DevSecOps (Hackers do Bem)** | 🔄 Em Progresso |
 | **Estatística & Ciência de Dados (UFMG)** | 🔄 Em Progresso |
-| **Ethical Hacking & DevSecOps (Hackers do Bem)** | 🔄 Em Progresso |
 | **Física Orgânica & Sensores (UTFPR)** | 🔄 Em Progresso |
 
 ---
@@ -136,6 +142,7 @@ Minha trajetória une o rigor acadêmico da Física experimental/computacional (
 ## 📞 Vamos Conversar?
 
 [![EMAIL ACADÊMICO](https://img.shields.io/badge/EMAIL%20ACADÊMICO-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bidinguiltetchudai@aluno.unilab.edu.br)
+[![WHATSAPP](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/554187784536)
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tchuda-bidenguilt%C3%A9-0b6764202/)
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devjr.oneboy.oficial/)
 
