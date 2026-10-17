@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Mestrando+em+Física+-+UTFPR;Especializando+em+Ciência+de+Dados+-+UFMG;Especialista+em+DevSecOps+-+Hackers+do+Bem;Amplify+Optics+Immersion+Fellow+2024+(USA);Seja+Bem-Vindo/a!)](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Mestrando+em+Física+-+UTFPR;Especializando+em+Ciência+de+Dados+-+UFMG;Especialista+em+DevSecOps+-+Hackers+do+Bem;Amplify+Optics+Immersion+Fellow+2024+(USA);Seja+Bem-Vindo/a!)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9D4EDD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Mestrando+em+Física+-+UTFPR;Especializando+em+Ciência+de+Dados+-+UFMG;Especialista+em+DevSecOps+-+Hackers+do+Bem;Amplify+Optics+Immersion+Fellow+2024+(USA);Seja+Bem-Vindo/a!)](https://readme-typing-svg.herokuapp.com?color=9D4EDD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Mestrando+em+Física+-+UTFPR;Especializando+em+Ciência+de+Dados+-+UFMG;Especialista+em+DevSecOps+-+Hackers+do+Bem;Amplify+Optics+Immersion+Fellow+2024+(USA);Seja+Bem-Vindo/a!)
 
 <div align="center">
 
@@ -27,6 +27,7 @@ Minha trajetória une o rigor acadêmico da Física experimental/computacional (
 - **Liderança & Gestão:** Liderança estudantil internacional, coordenação de grupos de exatas e gestão de projetos de extensão.
 
 ---
+
 ## Seção de Pilha de Tecnologia
 
 <div align="center">
@@ -44,31 +45,6 @@ Minha trajetória une o rigor acadêmico da Física experimental/computacional (
 <img src="https://skillicons.dev/icons?i=gitlab,git,github,terraform,prometheus,grafana,sonarqube,linux,vscode&perline=9" />
 
 </div>
-## 🛠️ Stack Tecnológico
-
-### 🔧 Ferramentas e Frameworks
-
-![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Prometheus](https://img.shields.io/badge/PROMETHEUS-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SONARQUBE-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-
-### 💻 Programação, Banco de Dados & Infraestrutura
-
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Kotlin](https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -178,4 +154,4 @@ Minha trajetória une o rigor acadêmico da Física experimental/computacional (
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tchuda-bidenguilt%C3%A9-0b6764202/)
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devjr.oneboy.oficial/)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer"/>
