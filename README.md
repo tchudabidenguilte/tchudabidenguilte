@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Mestrando+em+Física+-+UTFPR;Especializando+em+Ciência+de+Dados+-+UFMG;Especializando+em+DevSecOps+-+Hackers+do+Bem;Amplify+Optics+Immersion+Fellow+2024+(USA);Seja+Bem-Vindo/a!)](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Mestrando+em+Física+-+UTFPR;Especializando+em+Ciência+de+Dados+-+UFMG;Especializando+em+DevSecOps+-+Hackers+do+Bem;Amplify+Optics+Immersion+Fellow+2024+(USA);Seja+Bem-Vindo/a!)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Mestrando+em+Física+-+UTFPR;Especializando+em+Ciência+de+Dados+-+UFMG;Especialista+em+DevSecOps+-+Hackers+do+Bem;Amplify+Optics+Immersion+Fellow+2024+(USA);Seja+Bem-Vindo/a!)](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Mestrando+em+Física+-+UTFPR;Especializando+em+Ciência+de+Dados+-+UFMG;Especialista+em+DevSecOps+-+Hackers+do+Bem;Amplify+Optics+Immersion+Fellow+2024+(USA);Seja+Bem-Vindo/a!)
 
 <div align="center">
 
@@ -15,36 +15,48 @@
 ### 🧬 Biografia Profissional 
 Com sólida base em **Física**, transformo dados complexos em soluções computacionais de alto impacto. Atualmente, sou **Mestrando em Física da Matéria Condensada na UTFPR (Curitiba)** e **Especializando em Ciência de Dados (Estatística) na UFMG (Belo Horizonte)**, bolsista **FAPEMIG**. 
 
-Aprofundo especialização prática em **Cibersegurança e DevSecOps** através do programa **Hackers do Bem (RNP/SENAI/MCTI)**, tendo concluído as formações de Nivelamento, Básico e Fundamental (240h acumuladas), e atualmente cursando a **Especialização em DevSecOps (80h)**.
+Possuo formação avançada e prática em **Cibersegurança e DevSecOps** pelo programa **Hackers do Bem (RNP/SENAI/MCTI)**, tendo concluído com êxito os níveis de Nivelamento, Básico, Fundamental e a **Especialização em DevSecOps** (320h acumuladas). Dominei na prática a automação de pipelines CI/CD (GitLab Runner), varredura de vulnerabilidades em containers (Trivy), redução de footprint (DockerSlim), análise estática (SAST) e gestão de dependências (SCA OWASP) via SonarQube, instrumentação de métricas com Prometheus/Grafana e Infraestrutura como Código (IaC) com Terraform.
 
 Membro ativo da **Optica** (antiga *Optical Society of America - OSA*) e atuei como **Secretário-Geral do UNILAB Student Chapter - OPTICA OSA (2023 — 2025)**. Em 2024, fui selecionado no processo internacional **Amplify Optics Immersion Program** em Denver, Colorado, EUA.
 
 Minha trajetória une o rigor acadêmico da Física experimental/computacional (transistores orgânicos, óptica e simulações quânticas) com Ciência de Dados, Desenvolvimento Full Stack e Cibersegurança.
 
 - **Análise & Ciência de Dados:** Processamento estatístico, modelagem de dados e análise bibliométrica computacional (VOSviewer).
-- **Cibersegurança & DevSecOps:** Formação em Ethical Hacking e Hackers do Bem (Pipelines, Testes Automatizados e Metodologias de Desenvolvimento Seguro).
-- **Desenvolvimento Web & Interesses de Pesquisa:** Construção de websites computacionais e sistemas aplicados à Física, Óptica e Fotônica.
+- **Cibersegurança & DevSecOps:** Implementação de Secure SDLC, automação de testes unitários (Go), análise SAST/SCA integradas a pipelines CI/CD, monitoramento contínuo (Prometheus/Grafana) e automação IaC com Terraform.
+- **Desenvolvimento Web & Interesses de Pesquisa:** Construção de aplicações computacionais em Go/Python e sistemas aplicados à Física, Óptica e Fotônica.
 - **Liderança & Gestão:** Liderança estudantil internacional, coordenação de grupos de exatas e gestão de projetos de extensão.
 
 ---
 
-## 🛠️ Seção de Pilha de Tecnologia
+## 🛠️ Stack Tecnológico
 
-<div align="center">
+### 🔧 Ferramentas e Frameworks
 
-### Linguagens
-<img src="https://skillicons.dev/icons?i=py,js,cpp,kotlin,html,css,bash&perline=8" />
+![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
+![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Terraform](https://img.shields.io/badge/TERRAFORM-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/PROMETHEUS-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SONARQUBE-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
-### Frontend e UI
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,figma&perline=8" />
+### 💻 Programação, Banco de Dados & Infraestrutura
 
-### Backend e Bancos de Dados
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,docker&perline=8" />
-
-### Ferramentas, Segurança e Ambiente
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,androidstudio&perline=8" />
-
-</div>
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -66,7 +78,6 @@ Minha trajetória une o rigor acadêmico da Física experimental/computacional (
 
 - **Mestrado Profissional em Física e Astronomia (PPGFA)** — UTFPR Curitiba (2025 — Cursando)
 - **Especialização em Ciência de Dados (Estatística)** — UFMG Belo Horizonte / Bolsista FAPEMIG (2026 — Cursando)
-- **Especialização em DevSecOps** — Hackers do Bem / RNP / SENAI (2026 — Cursando)
 
 ---
 
@@ -76,7 +87,7 @@ Minha trajetória une o rigor acadêmico da Física experimental/computacional (
 | :--- | :--- | :--- | :--- |
 | **Mestrado em Física da Matéria Condensada** | Pesquisa | 🔄 2025 — Cursando | UTFPR — Curitiba |
 | **Especialização em Ciência de Dados** | Pós-Graduação | 🔄 2026 — Cursando | UFMG / FAPEMIG |
-| **Especialização em DevSecOps** | 80h | 🔄 2026 — Cursando | Hackers do Bem / RNP |
+| **Especialização em DevSecOps** | 80h | ✅ Concluído (2026) | Hackers do Bem / RNP / SENAI |
 | **Programa Hackers do Bem — Fundamental** | 96h | ✅ Concluído (2026) | Hackers do Bem / SENAI |
 | **Programa Hackers do Bem — Básico** | 64h | ✅ Concluído (2026) | Hackers do Bem / SENAI |
 | **Programa Hackers do Bem — Nivelamento** | 80h | ✅ Concluído (2026) | Hackers do Bem / SENAI |
@@ -107,14 +118,19 @@ Minha trajetória une o rigor acadêmico da Física experimental/computacional (
 
 ---
 
-## 💡 Competências Principais
+## 🛠️ Competências Técnicas & Ferramentas Operacionais
 
-| Categoria | Habilidades |
-|-----------|-------------|
-| **Cibersegurança & DevSecOps** | Metodologias de Desenvolvimento Seguro, Pipelines, Testes Automatizados, Criptografia, Análise de Vulnerabilidades |
-| **Ciência de Dados & Exatas** | Python, Análise Estatística, Modelagem de Dados, Computação Científica |
-| **Linguagens & Web** | Python, JavaScript, C++, Kotlin, HTML5/CSS3, Bash |
-| **Ferramentas & Ambiente** | Git/GitHub, VS Code, Linux, Docker, MySQL, VOSviewer |
+- **DevSecOps & Automação CI/CD:** Construção de pipelines automatizadas no GitLab (`.gitlab-ci.yml`), orquestração com GitLab Runner, criação de estágios de `build`, `test`, `security_scan`, `dependency_check` e aplicação de regras de falha por criticidade (`exit-code 1`).
+- **Análise Estática & Segurança de Código (SAST/SCA):** Inspeção contínua com SonarQube, customização do perfil *HDB Quality Profile*, gestão de *Security Hotspots* (mitigação da regra `go:S2068` - Hard-coded credentials) e verificação de dependências de terceiros com OWASP Dependency-Check.
+- **Segurança de Containers & Otimização:** Varredura de vulnerabilidades e licenças em imagens Docker com **Trivy** e otimização automatizada de *footprint* com **DockerSlim** (redução expressiva do tamanho de imagens de ~907MB para 12.8MB).
+- **Observabilidade & Monitoramento Contínuo:** Instrumentação de serviços em Go (`client_golang`), coleta e raspagem de métricas operacionais com **Prometheus** e construção de dashboards em tempo real no **Grafana**.
+- **Infraestrutura como Código (IaC):** Provisionamento e orquestração declarativa de infraestrutura e serviços conteinerizados utilizando **Terraform** (`kreuzwerker/docker`), gerenciando estados (`plan`, `apply`, `destroy`), volumes e redes.
+- **Criptografia Simétrica & Proteção de Dados:** Cifragem e decifragem de ficheiros no terminal via `ccrypt` (arquivos `.cpt`) e implementação de algoritmos clássicos em Python (`cesar_cipher.py`).
+- **Análise de Malware & Integridade:** Avaliação estática/dinâmica de artefatos maliciosos via *Kaspersky Threat Intelligence Portal*, validação de integridade por *hashes* (MD5, SHA-256) e auditoria binária com `cmp`.
+- **Segurança Web & Análise de Vulnerabilidades:** Deteção de ataques de *Clickjacking*, verificação de ausência de cabeçalhos anti-framing (`X-Frame-Options` / CSP), auditoria de cookies (`HttpOnly`, `Secure`, `SameSite`) e análise técnica de CVEs no NVD/CVEdetails (ex: CVE-2017-12099).
+- **Autenticação Forte (MFA) & Controlo de Acesso:** Teste de fluxos AAA em servidores RADIUS com `radtest`, configuração do módulo PAM `google_authenticator` no Linux (códigos TOTP, emergência e *rate-limiting*) e gestão de cofres via `otpclient`.
+- **Privacidade & Redes Anónimas:** Navegação e auditoria em serviços ocultos na rede Tor (`.onion` - *The Hidden Wiki*) com verificação de mascaramento de IP e geolocalização.
+- **Administração de Sistemas & Scripting:** Automação de diagnósticos no Windows Server via PowerShell (`Get-CimInstance`, `Get-WinEvent`) e gestão avançada de ambiente Linux/Debian (`systemctl`, `rsyslog`, `bash`, `python3`, `git`).
 
 ---
 
@@ -132,8 +148,12 @@ Minha trajetória une o rigor acadêmico da Física experimental/computacional (
 | Tecnologia / Área | Status |
 | :--- | :--- |
 | **HTML / CSS / JavaScript / Git** | 🟢 Dominado |
-| **Cibersegurança Fundamental & Redes** | 🟢 Dominado |
-| **Especialização DevSecOps (Hackers do Bem)** | 🔄 Em Progresso |
+| **Cibersegurança Fundamental, Redes & MFA** | 🟢 Dominado |
+| **Varredura de Containers & Otimização (Trivy / DockerSlim)** | 🟢 Dominado na Prática |
+| **Análise Estática & Dependências (SAST / SonarQube / OWASP SCA)** | 🟢 Dominado na Prática |
+| **Automação CI/CD & GitLab Runner** | 🟢 Dominado na Prática |
+| **Observabilidade & Monitoramento (Prometheus / Grafana)** | 🟢 Dominado na Prática |
+| **Infraestrutura como Código - IaC (Terraform)** | 🟢 Dominado na Prática |
 | **Estatística & Ciência de Dados (UFMG)** | 🔄 Em Progresso |
 | **Física Orgânica & Sensores (UTFPR)** | 🔄 Em Progresso |
 
