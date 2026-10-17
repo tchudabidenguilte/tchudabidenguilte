@@ -4,6 +4,13 @@
 
 <div align="center">
 
+  <img src="https://img.shields.io/badge/Mestrando%20em%20Física-UTFPR-100000?style=for-the-badge&color=240046&logo=graduation-dot-com&logoColor=9D4EDD" alt="Mestrando UTFPR">
+  <img src="https://img.shields.io/badge/Especializando%20em%20Ciência%20de%20Dados-UFMG-100000?style=for-the-badge&color=240046&logo=graduation-dot-com&logoColor=9D4EDD" alt="Especializando UFMG">
+  <img src="https://img.shields.io/badge/Localização-Curitiba%2C%20PR%20--%20UTFPR-100000?style=for-the-badge&color=240046&logo=googlemaps&logoColor=9D4EDD" alt="Curitiba UTFPR">
+
+</div>
+<div align="center">
+
   <img src="https://img.shields.io/badge/Mestrando%20em%20Física-UTFPR-100000?style=for-the-badge&color=240046&logo=graduation-dot-com&logoColor=9D4EDD" alt="UTFPR">
   <img src="https://img.shields.io/badge/Especializando%20em%20Ciência%20de%20Dados-UFMG-100000?style=for-the-badge&color=240046&logo=graduation-dot-com&logoColor=9D4EDD" alt="UFMG">
   <img src="https://img.shields.io/badge/Optica%20OSA-Secretário%20Geral-100000?style=for-the-badge&color=240046&logo=optic&logoColor=9D4EDD" alt="Optica OSA">
