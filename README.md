@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Mestrando+em+Física+-+UTFPR;Especializando+em+Ciência+de+Dados+-+UFMG;Amplify+Optics+Immersion+Fellow+2024+(USA);Secretário-Geral+Optica+OSA+Student+Chapter;Seja+Bem-Vindo/a!)](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Mestrando+em+Física+-+UTFPR;Especializando+em+Ciência+de+Dados+-+UFMG;Amplify+Optics+Immersion+Fellow+2024+(USA);Secretário-Geral+Optica+OSA+Student+Chapter;Seja+Bem-Vindo/a!)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Mestrando+em+Física+-+UTFPR;Especializando+em+Ciência+de+Dados+-+UFMG;Amplify+Optics+Immersion+Fellow+2024+(USA);Secretário-Geral+Optica+OSA+Student+(2023-2025);Seja+Bem-Vindo/a!)](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Mestrando+em+Física+-+UTFPR;Especializando+em+Ciência+de+Dados+-+UFMG;Amplify+Optics+Immersion+Fellow+2024+(USA);Secretário-Geral+Optica+OSA+Student+(2023-2025);Seja+Bem-Vindo/a!)
 
 <div align="center">
 
   <img src="https://img.shields.io/badge/Mestrando%20em%20Física-UTFPR-100000?style=for-the-badge&color=240046&logo=graduation-dot-com&logoColor=9D4EDD" alt="Mestrando UTFPR">
   <img src="https://img.shields.io/badge/Especializando%20em%20Ciência%20de%20Dados-UFMG-100000?style=for-the-badge&color=240046&logo=graduation-dot-com&logoColor=9D4EDD" alt="Especializando UFMG">
-  <img src="https://img.shields.io/badge/Optica%20OSA-Secretário%20Geral-100000?style=for-the-badge&color=240046&logo=optic&logoColor=9D4EDD" alt="Optica OSA">
+  <img src="https://img.shields.io/badge/Optica%20OSA-Secretário%20Geral%20(2023--2025)-100000?style=for-the-badge&color=240046&logo=optic&logoColor=9D4EDD" alt="Optica OSA 2023-2025">
   <img src="https://img.shields.io/badge/Amplify%20Optics%202024-USA%20Fellow-100000?style=for-the-badge&color=240046&logo=googlemaps&logoColor=9D4EDD" alt="Amplify USA">
   <img src="https://img.shields.io/badge/Localização-Curitiba%2C%20PR%20--%20UTFPR-100000?style=for-the-badge&color=240046&logo=googlemaps&logoColor=9D4EDD" alt="Curitiba UTFPR">
 
