@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Mestrando+em+Física+-+UTFPR;Especializando+em+Ciência+de+Dados+-+UFMG;Amplify+Optics+Immersion+Fellow+2024+(USA);Secretário-Geral+Optica+OSA+Student+Chapter;Seja+Bem-Vindo/a!)](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Mestrando+em+Física+-+UTFPR;Especializando+em+Ciência+de+Dados+-+UFMG;Amplify+Optics+Immersion+Fellow+2024+(USA);Secretário-Geral+Optica+OSA+Student+Chapter;Seja+Bem-Vindo/a!)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Mestrando+em+Física+-+UTFPR;Especializando+em+Ciência+de+Dados+-+UFMG;Amplify+Optics+Immersion+Fellow+2024+(USA);Secretário-Geral+Optica+OSA+Student+Chapter;Seja+Bem-Vindo/a!)](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Tchuda+Bidenguilté;Mestrando+em+Física+-+UTFPR;Especializando+em+Ciência+de+Dados+-+UFMG;Amplify+Optics+Immersion+Fellow+2024/2025+(USA);Secretário-Geral+Optica+OSA+Student+Chapter;Seja+Bem-Vindo/a!)
 
 <div align="center">
 
