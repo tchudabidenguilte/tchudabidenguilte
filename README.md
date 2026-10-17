@@ -27,19 +27,31 @@ Minha trajetória une o rigor acadêmico da Física experimental/computacional (
 - **Liderança & Gestão:** Liderança estudantil internacional, coordenação de grupos de exatas e gestão de projetos de extensão.
 
 ---
+## Seção de Pilha de Tecnologia
 
+<div align="center">
+
+### Linguagens
+<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,java,html,css,bash&perline=8" />
+
+### Frontend e UI
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,figma,ps&perline=8" />
+
+### Backend e Bancos de Dados
+<img src="https://skillicons.dev/icons?i=python,go,mysql,postgres,docker&perline=8" />
+
+### DevSecOps, Observabilidade, IaC e Ferramentas
+<img src="https://skillicons.dev/icons?i=gitlab,git,github,terraform,prometheus,grafana,sonarqube,linux,vscode&perline=9" />
+
+</div>
 ## 🛠️ Stack Tecnológico
 
 ### 🔧 Ferramentas e Frameworks
 
 ![React](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black)
 ![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Terraform](https://img.shields.io/badge/TERRAFORM-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/PROMETHEUS-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/GRAFANA-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SONARQUBE-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 ### 💻 Programação, Banco de Dados & Infraestrutura
