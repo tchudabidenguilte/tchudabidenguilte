@@ -24,6 +24,23 @@ Minha trajetória une o rigor acadêmico da Física experimental/computacional (
 - **Liderança & Gestão:** Liderança estudantil internacional, coordenação de grupos de exatas e gestão de projetos de extensão.
 
 ---
+## Seção de Pilha de Tecnologia
+
+<div align="center">
+
+### Linguagens
+<img src="https://skillicons.dev/icons?i=py,js,cpp,kotlin,html,css,bash&perline=8" />
+
+### Frontend e UI
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,figma&perline=8" />
+
+### Backend e Bancos de Dados
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,docker&perline=8" />
+
+### Ferramentas, Segurança e Ambiente
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,androidstudio&perline=8" />
+
+</div>
 
 ## 🛠️ Stack Tecnológico
 
