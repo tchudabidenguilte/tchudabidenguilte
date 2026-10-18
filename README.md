@@ -142,10 +142,9 @@ Minha trajetória une o rigor acadêmico da Física experimental/computacional (
 | **Automação CI/CD & GitLab Runner** | 🟢 Prática Concluída & Em Aperfeiçoamento |
 | **Observabilidade & Monitoramento (Prometheus / Grafana)** | 🟢 Prática Concluída & Em Aperfeiçoamento |
 | **Infraestrutura como Código - IaC (Terraform)** | 🟢 Prática Concluída & Em Aperfeiçoamento |
-| **Estatística & Ciência de Dados (UFMG)** | 🔄 Em Progresso |
 | **Física Orgânica & Sensores (UTFPR)** | 🔄 Em Progresso |
 | **Estatística & Ciência de Dados (UFMG)** | 🔄 Em Progresso |
-| **Física Orgânica & Sensores (UTFPR)** | 🔄 Em Progresso |
+
 
 ---
 
