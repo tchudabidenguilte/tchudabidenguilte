@@ -135,13 +135,15 @@ Minha trajetória une o rigor acadêmico da Física experimental/computacional (
 
 | Tecnologia / Área | Status |
 | :--- | :--- |
-| **HTML / CSS / JavaScript / Git** | 🟢 Dominado |
-| **Cibersegurança Fundamental, Redes & MFA** | 🟢 Dominado |
-| **Varredura de Containers & Otimização (Trivy / DockerSlim)** | 🟢 Dominado na Prática |
-| **Análise Estática & Dependências (SAST / SonarQube / OWASP SCA)** | 🟢 Dominado na Prática |
-| **Automação CI/CD & GitLab Runner** | 🟢 Dominado na Prática |
-| **Observabilidade & Monitoramento (Prometheus / Grafana)** | 🟢 Dominado na Prática |
-| **Infraestrutura como Código - IaC (Terraform)** | 🟢 Dominado na Prática |
+| **HTML / CSS / JavaScript / Git** | 🟢 Proficiente (Prática Consolidada) |
+| **Cibersegurança Fundamental, Redes & MFA** | 🟢 Proficiente (Prática Consolidada) |
+| **Varredura de Containers & Otimização (Trivy / DockerSlim)** | 🟢 Prática Concluída & Em Aperfeiçoamento |
+| **Análise Estática & Dependências (SAST / SonarQube / OWASP SCA)** | 🟢 Prática Concluída & Em Aperfeiçoamento |
+| **Automação CI/CD & GitLab Runner** | 🟢 Prática Concluída & Em Aperfeiçoamento |
+| **Observabilidade & Monitoramento (Prometheus / Grafana)** | 🟢 Prática Concluída & Em Aperfeiçoamento |
+| **Infraestrutura como Código - IaC (Terraform)** | 🟢 Prática Concluída & Em Aperfeiçoamento |
+| **Estatística & Ciência de Dados (UFMG)** | 🔄 Em Progresso |
+| **Física Orgânica & Sensores (UTFPR)** | 🔄 Em Progresso |
 | **Estatística & Ciência de Dados (UFMG)** | 🔄 Em Progresso |
 | **Física Orgânica & Sensores (UTFPR)** | 🔄 Em Progresso |
 
