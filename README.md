@@ -84,8 +84,9 @@ Minha trajetória une o rigor acadêmico da Física experimental/computacional (
 | **Capacitação em Sistemas Embarcados** | 160h | ✅ Concluído (2025) | IFCE — Fortaleza |
 | **Desenvolvedor Full Stack** | 192h | ✅ Concluído (2024) | IEL / CE |
 | **Desenvolvimento Kotlin para Android** | 144h | ✅ Concluído (2024) | TOTI Diversidade |
-| **Análise de Dados & Python & Full Stack** | 463h acumuladas | ✅ Concluído (2024) | TOTI Diversidade |
-
+| **Formação em Análise de Dados** | 219h | ✅ Concluído (2023) | Toti / Instituto Nu |
+| **Formação em Full Stack** | 176h | ✅ Concluído (2023) | Toti / Instituto Nu |
+| **Formação em Python** | 68h | ✅ Concluído (2023) | Toti / Instituto Nu |
 ---
 
 ### 🌐 Destaques Internacionais & Liderança
