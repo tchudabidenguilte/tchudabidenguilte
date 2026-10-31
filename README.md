@@ -52,13 +52,15 @@ Minha trajetória une o rigor acadêmico da Física experimental/computacional (
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=tchudabidenguilte&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tchudabidenguilte&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchudabidenguilte&layout=compact&theme=dracula&hide_border=true" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchudabidenguilte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens de programação mais utilizadas" />
 
 </div>
+
+---
 
 ---
 
