@@ -50,8 +50,6 @@ Minha trajetória une o rigor acadêmico da Física experimental/computacional (
 
 ## 📊 Estatísticas do GitHub
 
-## 📊 Estatísticas do GitHub
-
 <div align="center">
 
   <img src="https://github-stats-extended.vercel.app/api?username=tchudabidenguilte&show_icons=true&theme=tokyonight&hide_border=true"
